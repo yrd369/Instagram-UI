@@ -667,6 +667,18 @@ video {
   top: 0.5rem;
 }
 
+.right-1 {
+  right: 0.25rem;
+}
+
+.left-3 {
+  left: 0.75rem;
+}
+
+.left-4 {
+  left: 1rem;
+}
+
 .isolate {
   isolation: isolate;
 }
@@ -748,6 +760,14 @@ video {
 
 .mt-5 {
   margin-top: 1.25rem;
+}
+
+.ml-1 {
+  margin-left: 0.25rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
 }
 
 .box-border {
